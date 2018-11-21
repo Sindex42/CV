@@ -1,11 +1,11 @@
-## Your Name
+## Connor Kam-Cheong
 
 [Skills](#skills) | [Projects](#projects) | [Experience](#experience) | [Education](#education) | [Interests](#interests)
 
-Having been a shop assistant at the Castle Climbing Centre I have developed the necessary practical knowledge in climbing equipment and would like to apply this experience to coding
+(Having been a shop assistant at the Castle Climbing Centre I have developed the necessary practical knowledge in climbing equipment and would like to apply this experience to coding)
 
 
-## Skills
+## (Skills)
 
 #### This Skill
 
@@ -27,7 +27,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 
 
-## Projects
+## (Projects)
 
 
 
