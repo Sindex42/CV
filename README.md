@@ -1,6 +1,6 @@
 ## Connor Kam-Cheong
 
-[Skills](#skills) | [Projects](#projects) | [Experience](#experience) | [Education](#education) | [Interests](#interests)
+[Skills](#skills) | [Projects](#projects) | [Education](#education) | [Qualifications](#qualifications) | [Experience](#experience) |  [Interests](#interests)
 
 (Having been a shop assistant at the Castle Climbing Centre I have developed the necessary practical knowledge in climbing equipment and would like to apply this experience to coding)
 
@@ -60,7 +60,7 @@ HL Physics (6), HL Chemistry (6), HL English (4), SL Maths (6), SL Geography (5)
 
 
 
-## Other qualifications
+## Qualifications
 
 **Climbing Wall Instructor (including abseil module)** (Sep 2017)  
 Training in supervising safe climbing and abseiling sessions on purpose built artificial climbing walls and boulders.
