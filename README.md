@@ -1,9 +1,18 @@
 ## Connor Kam-Cheong
 
-[Skills](#skills) | [Projects](#projects) | [Education](#education) | [Qualifications](#qualifications) | [Experience](#experience) |  [Interests](#interests)
+ [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Qualifications](#qualifications) | [Experience](#experience) |  [Interests](#interests)
 
 (Having been a shop assistant at the Castle Climbing Centre I have developed the necessary practical knowledge in climbing equipment and would like to apply this experience to coding)
 
+
+## Projects
+
+Project | Description | Development Timeframe | Technologies Used
+------------- | ------------- | ------------- | -------------
+[Acebook](https://github.com/Sindex42/acebook-team-rocket) | A Facebook clone focusing on Agile methodologies and teamwork | 2 weeks | Ruby on Rails, Rspec, Capybara, PostgreSQL, Travis CI, CodeClimate, Heroku
+[Gilded Rose](https://github.com/Sindex42/gilded-rose-js) | Refactoring exercise, practice at handling legacy code | 3-4 days | JavaScript, NodeJS, Jest 
+[Bank Tech Test](https://github.com/Sindex42/bank-tech-test) | Javascript banking app interacted with through the browser console | 3-4 days | JavaScript, Jasmine 
+[Orthogonal Quest](https://github.com/Sindex42/orthogonal-quest) | Makers Academy final group project, top down adventure game | 2 weeks | Python3, PyGame, TravisCI, Code Climate, Pylint, AutoPep8 
 
 ## (Skills)
 
@@ -27,7 +36,6 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 
 
-## (Projects)
 
 
 
