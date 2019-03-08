@@ -4,7 +4,7 @@
 
 I am a full-stack junior software engineer, recent Makers Academy graduate and am looking to improve my skills and grow as a developer. 
 
-I worked in customer facing roles in the climbing industry for 3 years as a shop assistant and a rock climbing instructor. This is where I built my problem solving and logical thinking skills which are reflected in my programming projects. I focus on code that is clean, efficient and easily maintainable.
+I worked in customer facing roles in the climbing industry for 3 years as a shop assistant and a rock climbing instructor. This is where I built my problem solving and logical thinking skills which are reflected in my programming projects. I focus on code that is clean, efficient and easy to maintain.
 
 ## Projects
 
@@ -56,7 +56,7 @@ Expires February 2020
 
 ## Experience
 
-**Castle Climbing Centre** (Jan 2018 to July 2018)  
+**Castle Climbing Centre** (2017 to 2018)  
 *Rock Climbing Instructor*  
 Instructing groups of up to 6 children and/or adults on indoor bouldering and top-rope walls.
 Courses included short, full day and repeating weekly sessions.
@@ -70,8 +70,7 @@ Delivering friendly and efficient service to a range of customers during busy ti
 Point of contact between university club members, committee and the union. Regularly involved in teaching climbing safety and skills to individuals of different backgrounds and abilities. Answering questions and interacting with new members at events and by email to foster enthusiasm for the sport. Designing and writing a regular newsletter and management and editing of club official website.
 
 
-
 ## Interests
-- Avid rock climber since 2011
-- Puzzles, my modest collection of Rubik's cubes
-- Fluent French, German and Luxembourgish
+- Rock climbing: From trad climbing in Yosemite and the Peak District, to bouldering in Fontainebleau, I have been a keen climber since 2011 travelling and climbing around the world
+- Puzzles: my modest collection of Rubik's cubes and burr puzzles treaten to overtake all my shelf space
+- Languages: Growing up in Luxembourg, I am fluent in French, German and Luxembourgish
