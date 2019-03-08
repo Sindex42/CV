@@ -23,7 +23,7 @@ Project | Description | Development Timeframe | Technologies Used
 Highly selective 12-week intensive software development bootcamp teaching:
 
 - Languages: Ruby, JavaScript, HTML/CSS, SQL
-- Frameworks: Sinatra, Ruby on Rails
+- Web Frameworks: Sinatra, Ruby on Rails
 - Databases: PostgreSQL
 - Testing frameworks: Rspec, Capybara, Jasmine, Jest
 - CI/CD: Travis CI, Codeclimate, Heroku
@@ -71,6 +71,6 @@ Point of contact between university club members, committee and the union. Regul
 
 
 ## Interests
-- Rock climbing: From trad climbing in Yosemite and the Peak District, to bouldering in Fontainebleau, I have been a keen climber since 2011 travelling and climbing around the world
-- Puzzles: my modest collection of Rubik's cubes and burr puzzles treaten to overtake all my shelf space
-- Languages: Growing up in Luxembourg, I am fluent in French, German and Luxembourgish
+- Rock climbing: From trad climbing in Yosemite and the Peak District, to bouldering in Fontainebleau, I have been a keen climber since 2011 travelling and climbing around the world.
+- Puzzles: My modest collection of Rubik's cubes and burr puzzles is slowly overtaking all available shelf space.
+- Languages: Growing up in Luxembourg, I am fluent in French, German, and Luxembourgish.
