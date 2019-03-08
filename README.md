@@ -1,22 +1,24 @@
 ## Connor Kam-Cheong
 
- [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Qualifications](#qualifications) | [Experience](#experience) |  [Interests](#interests)
+[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Qualifications](#qualifications) | [Experience](#experience) |  [Interests](#interests)
 
-(Having been a shop assistant at the Castle Climbing Centre I have developed the necessary practical knowledge in climbing equipment and would like to apply this experience to coding)
+I am a full-stack junior software developer with 
+
+After working in the climbing industry for 3 years Having been a shop assistant at the Castle Climbing Centre I have developed the necessary practical knowledge in climbing equipment and would like to apply this experience to coding)
 
 
 ## Projects
 
 Project | Description | Development Timeframe | Technologies Used
 ------------- | ------------- | ------------- | -------------
-[Acebook](https://github.com/Sindex42/acebook-team-rocket) | A Facebook clone focusing on Agile methodologies and teamwork | 2 weeks | Ruby on Rails, Rspec, Capybara, PostgreSQL, Travis CI, CodeClimate, Heroku
+[Acebook](https://github.com/Sindex42/acebook-team-rocket) | A Facebook clone focussing on Agile methodologies and teamwork | 2 weeks | Ruby on Rails, Rspec, Capybara, PostgreSQL, Travis CI, CodeClimate, Heroku
 [Gilded Rose](https://github.com/Sindex42/gilded-rose-js) | Refactoring exercise, practice at handling legacy code | 3-4 days | JavaScript, NodeJS, Jest 
 [Bank Tech Test](https://github.com/Sindex42/bank-tech-test) | Javascript banking app interacted with through the browser console | 3-4 days | JavaScript, Jasmine 
 [Orthogonal Quest](https://github.com/Sindex42/orthogonal-quest) | Makers Academy final group project, top down adventure game | 2 weeks | Python3, PyGame, TravisCI, Code Climate, Pylint, AutoPep8 
 
 ## (Skills)
 
-#### This Skill
+#### Curiosity and passion for code
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
@@ -25,33 +27,28 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Evidence
 
 
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+#### Fast, independent learner
 
 - I achieved A during my work at B (job, or otherwise)
 - I contributed to the growth of X while doing Y (job, or otherwise)
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
 
-
-
-
+#### Great Collaborator
 
 
 ## Education
 
 #### Makers Academy (November 2018 to February 2019)
 
-- Curious and passionate about code. [PROVIDE EVIDENCE]
-- Fast, independent learner [PROVIDE EVIDENCE]
-- Great collaborator [PROVIDE EVIDENCE]
+Highly selective 12-week intensive software development bootcamp teaching:
 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
-
+- Languages: Ruby, JavaScript, HTML/CSS, SQL
+- Frameworks: Sinatra, Ruby on Rails
+- Databases: PostgreSQL
+- Testing frameworks: Rspec, Capybara, Jasmine, Jest
+- CI/CD: Travis CI, Codeclimate, Heroku
+- Ethos: Object oriented programming, Test/Behaviour driven development, XP values, Agile methodologies
 
 **Birkbeck University** (2013 – 2016)  
 *BSc Geology*
