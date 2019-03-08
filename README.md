@@ -1,11 +1,10 @@
-## Connor Kam-Cheong
+# Connor Kam-Cheong
 
-[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Qualifications](#qualifications) | [Experience](#experience) |  [Interests](#interests)
+[Projects](#projects) | [Education](#education) | [Qualifications](#qualifications) | [Experience](#experience) | [Interests](#interests)
 
-I am a full-stack junior software developer with 
+I am a full-stack junior software engineer, recent Makers Academy graduate and am looking to improve my skills and grow as a developer. 
 
-After working in the climbing industry for 3 years Having been a shop assistant at the Castle Climbing Centre I have developed the necessary practical knowledge in climbing equipment and would like to apply this experience to coding)
-
+I worked in customer facing roles in the climbing industry for 3 years as a shop assistant and a rock climbing instructor. This is where I built my problem solving and logical thinking skills which are reflected in my programming projects. I focus on code that is clean, efficient and easily maintainable.
 
 ## Projects
 
@@ -15,26 +14,6 @@ Project | Description | Development Timeframe | Technologies Used
 [Gilded Rose](https://github.com/Sindex42/gilded-rose-js) | Refactoring exercise, practice at handling legacy code | 3-4 days | JavaScript, NodeJS, Jest 
 [Bank Tech Test](https://github.com/Sindex42/bank-tech-test) | Javascript banking app interacted with through the browser console | 3-4 days | JavaScript, Jasmine 
 [Orthogonal Quest](https://github.com/Sindex42/orthogonal-quest) | Makers Academy final group project, top down adventure game | 2 weeks | Python3, PyGame, TravisCI, Code Climate, Pylint, AutoPep8 
-
-## (Skills)
-
-#### Curiosity and passion for code
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- Experience
-- Achievements
-- Evidence
-
-
-#### Fast, independent learner
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
-
-#### Great Collaborator
 
 
 ## Education
@@ -94,4 +73,5 @@ Point of contact between university club members, committee and the union. Regul
 
 ## Interests
 - Avid rock climber since 2011
+- Puzzles, my modest collection of Rubik's cubes
 - Fluent French, German and Luxembourgish
