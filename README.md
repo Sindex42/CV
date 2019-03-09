@@ -4,7 +4,7 @@
 
 I am a full-stack junior software engineer, recent Makers Academy graduate and am looking to improve my skills and grow as a developer. 
 
-I worked in customer facing roles in the climbing industry for 3 years as a shop assistant and a rock climbing instructor. This is where I built my problem solving and logical thinking skills which are reflected in my programming projects. I focus on code that is clean, efficient and easy to maintain.
+I worked in customer facing roles in the climbing industry for 3 years as a rock climbing instructor and shop assistant. This is where I built my problem solving and logical thinking skills which are reflected in my programming projects. I focus on code that is clean, efficient and easy to maintain.
 
 ## Projects
 
