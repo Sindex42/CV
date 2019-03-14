@@ -1,26 +1,52 @@
 # Connor Kam-Cheong
 
-[Projects](#projects) | [Education](#education) | [Qualifications](#qualifications) | [Experience](#experience) | [Interests](#interests)
+[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Qualifications](#qualifications) | [Experience](#experience) | [Interests](#interests)
 
-I am a full-stack junior software engineer, recent Makers Academy graduate and am looking to improve my skills and grow as a developer. 
+I am a full-stack junior software engineer, recent Makers Academy graduate and am looking to improve my skills and grow as a developer.
 
 I worked in customer facing roles in the climbing industry for 3 years as a rock climbing instructor and shop assistant. This is where I built my problem solving and logical thinking skills which are reflected in my programming projects. I focus on code that is clean, efficient and easy to maintain.
 
 ## Projects
 
-Project | Description | Development Timeframe | Technologies Used
+Project | Description | Development Time-frame | Technologies Used
 ------------- | ------------- | ------------- | -------------
 [Acebook](https://github.com/Sindex42/acebook-team-rocket) | A Facebook clone focussing on Agile methodologies and teamwork | 2 weeks | Ruby on Rails, Rspec, Capybara, PostgreSQL, Travis CI, CodeClimate, Heroku
-[Gilded Rose](https://github.com/Sindex42/gilded-rose-js) | Refactoring exercise, practice at handling legacy code | 3-4 days | JavaScript, NodeJS, Jest 
-[Bank Tech Test](https://github.com/Sindex42/bank-tech-test) | Javascript banking app interacted with through the browser console | 3-4 days | JavaScript, Jasmine 
-[Orthogonal Quest](https://github.com/Sindex42/orthogonal-quest) | Makers Academy final group project, top down adventure game | 2 weeks | Python3, PyGame, TravisCI, Code Climate, Pylint, AutoPep8 
+[Gilded Rose](https://github.com/Sindex42/gilded-rose-js) | Refactoring exercise, practice at handling legacy code | 3-4 days | JavaScript, NodeJS, Jest
+[Bank Tech Test](https://github.com/Sindex42/bank-tech-test) | Javascript banking app interacted with through the browser console | 3-4 days | JavaScript, Jasmine
+[Orthogonal Quest](https://github.com/Sindex42/orthogonal-quest) | Makers Academy final group project, top down adventure game | 2 weeks | Python3, PyGame, TravisCI, Code Climate, Pylint, AutoPep8
+
+
+## Skills
+
+#### Communication
+
+
+I use my knowledge and enthusiasm for climbing to advise and encourage customers, while making sure my information is comprehensive, accurate and up to date.
+
+My role in the shop has made me keenly aware of the importance of giving quality service.
+
+I have had to be well organised to carry out my duties of replenishing stock, handling cash and delivering efficient service to customers.
+
+I have trained many new staff, and have recently taken on further managerial tasks such as setting the rota.
+
+Good communication and customer service have been essential to my role when advising customers, particularly during busy times.
+
+During my time as a climbing instructor I delivered clear and accurate instructions to climbers of varying ages and abilities, requiring a
+good understanding of their needs, and of the health and safety issues involved with a confident and friendly manner.
+
+the need to remain calm during busy times and under pressure. My level-headed manner has helped me with various groups of energetic children
+
+
+#### Teamwork
+
+
 
 
 ## Education
 
 #### Makers Academy (November 2018 to February 2019)
 
-Highly selective 12-week intensive software development bootcamp teaching:
+Highly selective 12-week intensive software development boot-camp teaching:
 
 - Languages: Ruby, JavaScript, HTML/CSS, SQL
 - Web Frameworks: Sinatra, Ruby on Rails
@@ -39,7 +65,7 @@ Highly selective 12-week intensive software development bootcamp teaching:
 *BSc Electrical Engineering*
 
 **International School of Luxembourg** (2009 – 2011)  
-*International Baccalaureate: 
+*International Baccalaureate:
 HL Physics (6), HL Chemistry (6), HL English (4), SL Maths (6), SL Geography (5), SL French A2 (5)*
 
 
@@ -71,6 +97,6 @@ Point of contact between university club members, committee and the union. Regul
 
 
 ## Interests
-- Rock climbing: From trad climbing in Yosemite and the Peak District, to bouldering in Fontainebleau, I have been a keen climber since 2011 travelling and climbing around the world.
+- Rock climbing: From trad climbing in Yosemite and the Peak District, to bouldering in Fontainebleau, I have been a keen climber since 2011, travelling and climbing around the world.
 - Puzzles: My modest collection of Rubik's cubes and burr puzzles is slowly overtaking all available shelf space.
 - Languages: Growing up in Luxembourg, I am fluent in French, German, and Luxembourgish.
