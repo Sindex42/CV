@@ -18,27 +18,9 @@ Project | Description | Development Time-frame | Technologies Used
 
 ## Skills
 
-#### Communication
+#### Communication & Adaptability
 
-
-I use my knowledge and enthusiasm for climbing to advise and encourage customers, while making sure my information is comprehensive, accurate and up to date.
-
-My role in the shop has made me keenly aware of the importance of giving quality service.
-
-I have had to be well organised to carry out my duties of replenishing stock, handling cash and delivering efficient service to customers.
-
-I have trained many new staff, and have recently taken on further managerial tasks such as setting the rota.
-
-Good communication and customer service have been essential to my role when advising customers, particularly during busy times.
-
-During my time as a climbing instructor I delivered clear and accurate instructions to climbers of varying ages and abilities, requiring a
-good understanding of their needs, and of the health and safety issues involved with a confident and friendly manner.
-
-the need to remain calm during busy times and under pressure. My level-headed manner has helped me with various groups of energetic children
-
-
-#### Teamwork
-
+During my time as a climbing instructor, I used my knowledge and enthusiasm for climbing to advise and encourage clients of varying ages and abilities. I delivered clear and accurate instructions and adapted them to each individual group. This required a good understanding of the customers' needs, while making sure that my information was comprehensive, and keeping the health and safety issues involved in mind. 
 
 
 
