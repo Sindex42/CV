@@ -1,12 +1,14 @@
 <h1 align="center">Connor Kam-Cheong</h1>
 
 <div align="center">
-[Projects](#projects) |
-[Skills](#skills) |
-[Education](#education) |
-[Qualifications](#qualifications) |
-[Experience](#experience) |
-[Interests](#interests)
+    
+[Projects ](#projects) |
+[Skills ](#skills) |
+[Education ](#education) |
+[Qualifications ](#qualifications) |
+[Experience ](#experience) |
+[Interests ](#interests)
+
 </div>
 
 I am a full-stack junior software engineer, recent Makers Academy graduate and am looking to improve my skills and grow as a developer.
