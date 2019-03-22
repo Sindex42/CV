@@ -1,6 +1,13 @@
-# Connor Kam-Cheong
+<h1 align="center">Connor Kam-Cheong</h1>
 
-[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Qualifications](#qualifications) | [Experience](#experience) | [Interests](#interests)
+<div align="center">
+[Projects](#projects) |
+[Skills](#skills) |
+[Education](#education) |
+[Qualifications](#qualifications) |
+[Experience](#experience) |
+[Interests](#interests)
+</div>
 
 I am a full-stack junior software engineer, recent Makers Academy graduate and am looking to improve my skills and grow as a developer.
 
@@ -20,7 +27,7 @@ Project | Description | Development Time-frame | Technologies Used
 
 #### Communication & Adaptability
 
-During my time as a climbing instructor, I used my knowledge and enthusiasm for climbing to advise and encourage clients of varying ages and abilities. I delivered clear and accurate instructions and adapted them to each individual group. This required a good understanding of the customers' needs, while making sure that my information was comprehensive, and keeping the health and safety issues involved in mind. 
+During my time as a climbing instructor, I used my knowledge and enthusiasm for climbing to advise and encourage clients of varying ages and abilities. I delivered clear and accurate instructions and adapted them to each individual group. This required a good understanding of the customers' needs, while making sure that my information was comprehensive, and keeping the health and safety issues involved in mind.
 
 
 
