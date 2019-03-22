@@ -1,7 +1,7 @@
 <h1 align="center">Connor Kam-Cheong</h1>
 
 <div align="center">
-    
+
 [Projects ](#projects) |
 [Skills ](#skills) |
 [Education ](#education) |
@@ -30,6 +30,10 @@ Project | Description | Development Time-frame | Technologies Used
 #### Communication & Adaptability
 
 During my time as a climbing instructor, I used my knowledge and enthusiasm for climbing to advise and encourage clients of varying ages and abilities. I delivered clear and accurate instructions and adapted them to each individual group. This required a good understanding of the customers' needs, while making sure that my information was comprehensive, and keeping the health and safety issues involved in mind.
+
+#### Attention to Detail
+
+During my group project where we built a Facebook clone, we set up continuous integration with Travis CI but couldn't get our linter checks to pass. Initially, we came up with a workaround but we weren't satisfied with just disabling some of the linter rules. After some research, I discovered that some of offending comments were being automatically generated as part of the database migration. We then added the offending schema file to the list of ignored files and this allowed us to continue on with peace of mind knowing we'd tackled the problem correctly.
 
 
 
