@@ -11,7 +11,7 @@
 
 </div>
 
-I am a full-stack junior software engineer, recent Makers Academy graduate and am looking to improve my skills and grow as a developer.
+I am a full-stack junior software engineer with experience in Ruby, JavaScript, NodeJS, Python, Scala, TDD and OOD.  I am a fast learner and am looking to improve my skills and grow as a developer.
 
 I worked in customer facing roles in the climbing industry for 3 years as a rock climbing instructor and shop assistant. This is where I built my problem solving and logical thinking skills which are reflected in my programming projects. I focus on code that is clean, efficient and easy to maintain.
 
@@ -20,9 +20,9 @@ I worked in customer facing roles in the climbing industry for 3 years as a rock
 Project | Description | Development Time-frame | Technologies Used
 ------------- | ------------- | ------------- | -------------
 [Acebook](https://github.com/Sindex42/acebook-team-rocket) | A Facebook clone focussing on Agile methodologies and teamwork | 2 weeks | Ruby on Rails, Rspec, Capybara, PostgreSQL, Travis CI, CodeClimate, Heroku
+[Gone With the Wind](https://github.com/Sindex42/gone-with-the-wind) | A library program to manage searches, lending and returning of books | 1 week | Scala, ScalaTest, sbt
 [Gilded Rose](https://github.com/Sindex42/gilded-rose-js) | Refactoring exercise, practice at handling legacy code | 3-4 days | JavaScript, NodeJS, Jest
-[Bank Tech Test](https://github.com/Sindex42/bank-tech-test) | Javascript banking app interacted with through the browser console | 3-4 days | JavaScript, Jasmine
-[Orthogonal Quest](https://github.com/Sindex42/orthogonal-quest) | Makers Academy final group project, top down adventure game | 2 weeks | Python3, PyGame, TravisCI, Code Climate, Pylint, AutoPep8
+[Orthogonal Quest](https://github.com/Sindex42/orthogonal-quest) | Makers Academy final group project, top down, zelda-inspired adventure game | 2 weeks | Python3, PyGame, TravisCI, Code Climate, Pylint, AutoPep8
 
 
 ## Skills
